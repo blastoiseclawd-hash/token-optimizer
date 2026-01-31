@@ -1,0 +1,15 @@
+{
+  "name": "token-optimizer",
+  "version": "1.0.0",
+  "description": "Analyze and optimize Clawdbot token usage to reduce costs",
+  "main": "analyze.js",
+  "scripts": {
+    "analyze": "node analyze.js",
+    "compress": "node compress.js",
+    "optimize": "node optimize.js",
+    "savings": "node track.js"
+  },
+  "keywords": ["clawdbot", "tokens", "optimization", "cost-reduction"],
+  "author": "OpenBlastoise",
+  "license": "MIT"
+}
