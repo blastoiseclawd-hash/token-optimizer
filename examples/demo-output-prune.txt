@@ -1,0 +1,29 @@
+✂️  Context Window Pruner
+
+Processing: demo-conversation.json
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+✂️  CONTEXT PRUNING REPORT
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Original messages: 25
+Original tokens: 2,176
+
+Pruned messages: 18
+Pruned tokens: 941
+
+💰 Savings: 1,235 tokens (56.8%)
+
+Dropped by priority:
+  • LOW: 3 messages (routine responses)
+  • NOISE: 4 messages (heartbeats, "ok")
+
+📝 Summary added: "[Pruned context: 7 routine messages]"
+
+💵 Cost saved per request: $0.0037
+💵 Cost saved per 100 requests: $0.37
+💵 Cost saved per 10K requests: $37
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+At scale: 56.8% token reduction = major cost savings!

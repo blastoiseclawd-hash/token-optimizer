@@ -1,0 +1,55 @@
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+📊 SESSION ANALYSIS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Session: e4ea3a77-fada-4e26-9b4a-83170bcf4c9b.jsonl
+Model: anthropic/claude-sonnet-4-5
+
+💰 TOKEN BREAKDOWN
+  Total tokens: 160,234,760
+  Input tokens: 68,289,152 (42.6%)
+  Output tokens: 32,845,608 (20.5%)
+  Cache creation: 52,800,000 (33.0%)
+  Cache reads: 6,300,000 (3.9%)
+
+💵 COST ANALYSIS
+  Total cost: $52.91
+  Input: $13.66 (25.8%)
+  Output: $49.27 (93.1%)
+  Cache (effective): -$10.02 (-18.9%)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+🔍 BLOAT DETECTED
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🔴 HIGH PRIORITY
+
+Issue: Tool calls are being repeated with same arguments
+Occurrences: 886 instances
+Token impact: 177,200 tokens
+Fix: Cache tool results or deduplicate calls
+Savings: $0.16/session
+
+Examples:
+  • Read "HEARTBEAT.md" 15 times
+  • Read "AGENTS.md" 23 times
+  • Read "memory/2026-01-30.md" 12 times
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🟡 MEDIUM PRIORITY
+
+Issue: Responses longer than 2,000 tokens detected
+Occurrences: 28 instances
+Token impact: 29,666 tokens
+Fix: Review these responses for verbosity
+Savings: $0.03/session
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+💰 POTENTIAL SAVINGS
+Total: $0.27 per session
+Monthly (30 sessions): $8.10
+Yearly (365 sessions): $98.55
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━

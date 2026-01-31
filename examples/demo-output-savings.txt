@@ -1,0 +1,19 @@
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+💰 CUMULATIVE SAVINGS REPORT
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+📊 Total optimizations: 2
+🎯 Tokens saved: 539,266
+💵 Cost saved: $0.55
+
+By optimization type:
+  • session-analysis: 1x, 284,866 tokens ($0.27)
+  • analysis: 1x, 254,400 tokens ($0.27)
+
+Recent optimizations (last 10):
+  • 1/30/2026 - Analyzed session e4ea3a77...: 284,866 tokens
+  • 1/30/2026 - Detected unnecessary repeats: 254,400 tokens
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+ROI: Tool paid for itself in first 2 sessions! 🎉
