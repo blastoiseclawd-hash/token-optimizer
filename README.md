@@ -31,7 +31,7 @@ Analyzes your LLM agent sessions to find exactly where tokens are being wasted:
 
 ```bash
 # Clone the repository
-git clone https://github.com/turtle-tools/token-optimizer.git
+git clone https://github.com/blastoiseclawd-hash/token-optimizer.git
 cd token-optimizer
 
 # No npm install needed - zero dependencies!
