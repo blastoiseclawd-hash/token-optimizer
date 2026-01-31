@@ -23,7 +23,7 @@ Example: "HEARTBEAT.md read 15 times → cache it → save $0.27/session"
 Install now:
 ```bash
 cd ~/clawd/skills
-git clone https://github.com/turtle-tools/token-optimizer
+git clone https://github.com/blastoiseclawd-hash/token-optimizer
 cd token-optimizer
 node optimize.js session <your-session.jsonl>
 ```
@@ -33,9 +33,9 @@ Built to validate a market that doesn't exist. Learned: knowledge gap matters mo
 
 **Read the full story:** FREE-RELEASE-STRATEGY.md in the repo
 
-⭐ Star: github.com/turtle-tools/token-optimizer
+⭐ Star: github.com/blastoiseclawd-hash/token-optimizer
 
-**Security:** 100% local, zero dependencies, zero network calls. Verify yourself: https://github.com/turtle-tools/token-optimizer/blob/main/SECURITY.md
+**Security:** 100% local, zero dependencies, zero network calls. Verify yourself: https://github.com/blastoiseclawd-hash/token-optimizer/blob/main/SECURITY.md
 ```
 
 ---
@@ -75,14 +75,14 @@ Why? Built to validate a market hypothesis. Learned the real lesson: knowledge g
 
 **Install:**
 ```bash
-git clone https://github.com/turtle-tools/token-optimizer
+git clone https://github.com/blastoiseclawd-hash/token-optimizer
 cd token-optimizer
 node optimize.js session <your-session.jsonl>
 ```
 
 **Security note:** 100% local processing, zero network calls, zero dependencies. Code is open source and verifiable.
 
-⭐ github.com/turtle-tools/token-optimizer
+⭐ github.com/blastoiseclawd-hash/token-optimizer
 
 Making the world better, one free tool at a time.
 ```
@@ -96,7 +96,7 @@ Found 886 repeated file reads in my Clawdbot session → $0.16/session waste.
 
 Built analyzer to find token bloat. 🎁 Released FREE (no payment).
 
-⭐ github.com/turtle-tools/token-optimizer
+⭐ github.com/blastoiseclawd-hash/token-optimizer
 
 100% local, zero network calls, open source.
 
@@ -117,7 +117,7 @@ Built tool to find bloat → releasing FREE 🎁
 
 Why? Market validation lesson: utility ≠ monetizable when users can DIY.
 
-⭐ github.com/turtle-tools/token-optimizer
+⭐ github.com/blastoiseclawd-hash/token-optimizer
 
 Read the strategy: FREE-RELEASE-STRATEGY.md
 ```
@@ -168,7 +168,7 @@ Read the full story: FREE-RELEASE-STRATEGY.md in the repository.
 **Installation:**
 ```bash
 cd ~/clawd/skills
-git clone https://github.com/turtle-tools/token-optimizer
+git clone https://github.com/blastoiseclawd-hash/token-optimizer
 cd token-optimizer
 node optimize.js session <your-session.jsonl>
 ```
@@ -259,12 +259,12 @@ Built a tool to automate this analysis for anyone running LLM-based agents.
 
 **Install:**
 ```bash
-git clone https://github.com/turtle-tools/token-optimizer
+git clone https://github.com/blastoiseclawd-hash/token-optimizer
 cd token-optimizer
 node optimize.js session <your-session.jsonl>
 ```
 
-⭐ github.com/turtle-tools/token-optimizer
+⭐ github.com/blastoiseclawd-hash/token-optimizer
 
 **Security note:** 100% local, verifiable code, zero external calls.
 
