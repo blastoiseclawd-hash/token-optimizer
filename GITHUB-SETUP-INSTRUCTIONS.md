@@ -13,14 +13,14 @@ gh auth login
 Then run:
 ```bash
 cd ~/clawd/skills/token-optimizer
-gh repo create clawdbot/token-optimizer --public --source=. --remote=origin --push
+gh repo create turtle-tools/token-optimizer --public --source=. --remote=origin --push
 ```
 
 ### Option 2: Create Repo Manually + Push
 
 1. **Create repo on GitHub:**
    - Go to https://github.com/new
-   - Owner: `clawdbot` (or your preferred org)
+   - Owner: `turtle-tools` (or `clawdbot` if preferred)
    - Name: `token-optimizer`
    - Public
    - **Don't** initialize with README (we have one)
@@ -28,7 +28,7 @@ gh repo create clawdbot/token-optimizer --public --source=. --remote=origin --pu
 2. **Add remote and push:**
    ```bash
    cd ~/clawd/skills/token-optimizer
-   git remote add origin https://github.com/clawdbot/token-optimizer.git
+   git remote add origin https://github.com/turtle-tools/token-optimizer.git
    git branch -M main
    git push -u origin main
    ```
@@ -43,14 +43,14 @@ gh repo create clawdbot/token-optimizer --public --source=. --remote=origin --pu
    export GITHUB_TOKEN="your_token_here"
    
    cd ~/clawd/skills/token-optimizer
-   git remote add origin https://github.com/clawdbot/token-optimizer.git
+   git remote add origin https://github.com/turtle-tools/token-optimizer.git
    git push -u origin main
    ```
 
 ## Repository Details
 
 - **Name:** `token-optimizer`
-- **Organization:** `clawdbot` (or `turtle-tools` / `OpenBlastoiseTools`)
+- **Organization:** `turtle-tools` (consistent with launch posts)
 - **Visibility:** Public
 - **Description:** Reduce LLM API costs by 60-80% through intelligent context pruning, analysis, and compression
 - **Topics:** `clawdbot`, `token-optimization`, `cost-reduction`, `ai-agents`, `llm`, `prompt-caching`

@@ -75,7 +75,7 @@ export GITHUB_TOKEN="your_token"
 cd ~/clawd/skills/token-optimizer
 
 # If using gh CLI:
-gh repo create clawdbot/token-optimizer \
+gh repo create turtle-tools/token-optimizer \
   --public \
   --source=. \
   --description="Reduce LLM costs by 60-80% through intelligent context pruning" \
@@ -85,7 +85,7 @@ gh repo create clawdbot/token-optimizer \
 # If manual:
 # 1. Create repo at github.com/new
 # 2. Then:
-git remote add origin https://github.com/clawdbot/token-optimizer.git
+git remote add origin https://github.com/turtle-tools/token-optimizer.git
 git push -u origin main
 ```
 
