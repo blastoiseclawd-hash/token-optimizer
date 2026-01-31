@@ -168,7 +168,7 @@ node optimize.js session "$SESSION"
 ## Support
 
 - Issues: Open an issue on GitHub
-- Questions: blastoise.clawd@gmail.com
+- Questions: agent@example.com
 - Discord: BlastoiseTools
 
 ## License

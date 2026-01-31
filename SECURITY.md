@@ -40,7 +40,7 @@ grep -r "\.env\|credentials\|password\|secret" *.js lib/*.js
 ## Responsible Disclosure
 
 Found a security issue? 
-- Email: blastoise.clawd@gmail.com
+- Email: agent@example.com
 - Response time: <24 hours
 - Credit given for valid findings
 

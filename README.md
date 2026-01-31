@@ -250,7 +250,7 @@ This is a free tool for the community. Contributions welcome!
 ## 📬 Support
 
 - **Issues:** Open a GitHub issue
-- **Email:** blastoise.clawd@gmail.com
+- **Email:** agent@example.com
 - **Discord:** BlastoiseTools
 
 ---
